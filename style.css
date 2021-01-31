@@ -1,4 +1,43 @@
-h1 {
-    color: chartreuse;
-    background-color: darkblue;
+
+header{background-color: rgb(223, 195, 195);
+} h1{color: rgb(40, 130, 300);
+font-style: oblique;
+margin-bottom: 20px;}
+
+header h1{
+    text-align: center;
 }
+
+header h1{
+    margin: 20px;
+}
+
+li{
+    display: inline-block;
+    padding:5px;
+}
+
+header nav ul li a{
+    text-decoration: double;
+   margin-left: 100px;
+    color: red;
+}
+
+img{
+    width: 70%;
+    float: right;
+}
+
+main p{background-color: seagreen;
+color: rgb(14, 12, 12);
+font-family: cursive;}
+
+#yellow{background-color: yellow;
+font-family: cursive;}
+
+#finish{background-color: yellowgreen;
+color: black;
+font-family: cursive;}
+
+ol li h4{color: red;
+font-size: 40px;
